@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Disable TC">
+<test  name="Test1">
+
+<classes>
+<class name="testNG.Run_failed_test">
+<methods>
+<exclude name="Test1"></exclude>
+<exclude name="Test5"></exclude>
+</methods>
+</class>
+
+</classes>
+</test>
+</suite>  

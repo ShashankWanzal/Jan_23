@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+    <line>
+      <![CDATA[Test 1 is running]]>
+    </line>
+    <line>
+      <![CDATA[Test 10 is running]]>
+    </line>
+    <line>
+      <![CDATA[Test 11 is running]]>
+    </line>
+    <line>
+      <![CDATA[Test 12 is running]]>
+    </line>
+    <line>
+      <![CDATA[Test 2 is running]]>
+    </line>
+    <line>
+      <![CDATA[Test 3 is running]]>
+    </line>
+    <line>
+      <![CDATA[Test 4 is running]]>
+    </line>
+    <line>
+      <![CDATA[Test 5 is running]]>
+    </line>
+    <line>
+      <![CDATA[Test 6 is running]]>
+    </line>
+    <line>
+      <![CDATA[Test 7 is running]]>
+    </line>
+    <line>
+      <![CDATA[Test 8 is running]]>
+    </line>
+    <line>
+      <![CDATA[Test 9 is running]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="157" started-at="2023-05-25T08:54:30 IST" finished-at="2023-05-25T08:54:31 IST">
+    <groups>
+      <group name="Gpay">
+        <method signature="Grouping_TC2.Test3()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test3" class="testNG.Grouping_TC2"/>
+        <method signature="Grouping_TC2.Test4()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test4" class="testNG.Grouping_TC2"/>
+        <method signature="Grouping_TC2.Test5()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test5" class="testNG.Grouping_TC2"/>
+      </group> <!-- Gpay -->
+      <group name="Paytm">
+        <method signature="Grouping_TC2.Test1()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test1" class="testNG.Grouping_TC2"/>
+        <method signature="Grouping_TC2.Test2()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test2" class="testNG.Grouping_TC2"/>
+        <method signature="Grouping_TC2.Test7()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test7" class="testNG.Grouping_TC2"/>
+      </group> <!-- Paytm -->
+      <group name="Bhim">
+        <method signature="Grouping_TC2.Test10()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test10" class="testNG.Grouping_TC2"/>
+        <method signature="Grouping_TC2.Test11()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test11" class="testNG.Grouping_TC2"/>
+        <method signature="Grouping_TC2.Test12()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test12" class="testNG.Grouping_TC2"/>
+      </group> <!-- Bhim -->
+      <group name="PhonePay">
+        <method signature="Grouping_TC2.Test6()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test6" class="testNG.Grouping_TC2"/>
+        <method signature="Grouping_TC2.Test8()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test8" class="testNG.Grouping_TC2"/>
+        <method signature="Grouping_TC2.Test9()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test9" class="testNG.Grouping_TC2"/>
+      </group> <!-- PhonePay -->
+    </groups>
+    <test name="Test" duration-ms="157" started-at="2023-05-25T08:54:30 IST" finished-at="2023-05-25T08:54:31 IST">
+      <class name="testNG.Grouping_TC2">
+        <test-method status="PASS" signature="Test1()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test1" duration-ms="17" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 1 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Test10()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test10" duration-ms="1" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 10 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test10 -->
+        <test-method status="PASS" signature="Test11()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test11" duration-ms="2" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 11 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test11 -->
+        <test-method status="PASS" signature="Test12()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test12" duration-ms="3" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 12 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test12 -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test2" duration-ms="2" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 2 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="Test3()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test3" duration-ms="2" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 3 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method status="PASS" signature="Test4()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test4" duration-ms="2" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 4 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method status="PASS" signature="Test5()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test5" duration-ms="1" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 5 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test5 -->
+        <test-method status="PASS" signature="Test6()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test6" duration-ms="2" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 6 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test6 -->
+        <test-method status="PASS" signature="Test7()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test7" duration-ms="9" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 7 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test7 -->
+        <test-method status="PASS" signature="Test8()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test8" duration-ms="7" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 8 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test8 -->
+        <test-method status="PASS" signature="Test9()[pri:0, instance:testNG.Grouping_TC2@25af5db5]" name="Test9" duration-ms="1" started-at="2023-05-25T08:54:31 IST" finished-at="2023-05-25T08:54:31 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Test 9 is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Test9 -->
+      </class> <!-- testNG.Grouping_TC2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
